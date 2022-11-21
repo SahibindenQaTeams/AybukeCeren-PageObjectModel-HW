@@ -1,6 +1,6 @@
 # AybukeCeren-PageObjectModel-HW
 ## Test notları
-<sup> Tb182'de testler yapıldı; test ortamının bazı elementleri geç yüklemesinden dolayı wait süresi uzun. page packageında page classları var; test packageında test classları var. Test ekranlarının web elementleri @FindBy annotation tanımlamasıyla page packageındadır. </sup>
+<sup> Tb182'de testler yapıldı; test ortamının bazı elementleri geç yüklemesinden dolayı kodda wait süresini uzun tuttum. page packageında page classları var; test packageında test classları var. Test ekranlarının web elementleri @FindBy annotation tanımlamasıyla page packageındadır. </sup>
 ## Test caseleri (test class isimleriyle birlikte)
 <sup> - **OtomobilTest1.java**: Kullanıcı anasayfada “otomobil” kategorisine tıklar. “Bu kategorideki tüm ilanlar” menüsüne tıklar.Sayfa başına ilan sayısı prodda 20, sayfa başına ilan sayısının 20 olarak geldiği kontrol edildi. Anasayfa ekranının page class'ı **HomePage.java**. Anasayfada otomobil kategorisine tıklanınca açılan sayfanın page classı **OtomobilPage.java**. Otomobil sayfasında "bu kategorideki tüm ilanlar" tıklandığında açılan sayfanın page classı **OtoTumIlanlar.java**. Bu casein kontrolünü OtoTumIlanlar page classının **checkIlanSayisi()** metoduyla yaptım. </sup>
 <br/>
