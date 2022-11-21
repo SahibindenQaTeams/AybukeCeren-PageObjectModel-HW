@@ -27,4 +27,34 @@
 <br/>
 <br/>
 <sup> -**AramaTest.java**: Kullanıcı anasayfada "Detaylı Arama"ya tıklar. Açılan sayfada kategori olarak emlak tıklanır.Şehir olarak İstanbul-tümü seçilir. Min fiyat olarak 1000000 girilir. Max fiyat olarak 10000000 girilir. Arama butonu tıklanır. Anasayfa ekranının page class'ı **HomePage.java**. Detaylı arama tıklandıktan sonra açılan sayfanın page classı **SearchPage.java**. </sup>
+<br/>
+<br/>
 
+## Test classlarının çalıştırılması sonrası bulguları: (tbların patlama ihtimaline karşılık ekledim)
+<img width="343" alt="OtomobilTest1" src="https://user-images.githubusercontent.com/36036370/202979071-69821787-4257-4cf8-98f5-d8a480a7b689.png">
+<br/>
+<br/>
+<img width="342" alt="OtomobilTestCase2" src="https://user-images.githubusercontent.com/36036370/202979097-1d8c7ccb-2730-4263-ae8a-5af3235e0b05.png">
+<br/>
+<br/>
+<img width="346" alt="OtomobilTest3" src="https://user-images.githubusercontent.com/36036370/202979113-4947f19d-64aa-458b-9436-b9445b4f6d87.png">
+<br/>
+<br/>
+<img width="349" alt="OtomobilTestCase4" src="https://user-images.githubusercontent.com/36036370/202979137-30dd3432-24ca-4319-9ca2-d3cfccb4f0e7.png">
+<br/>
+<br/>
+<img width="348" alt="PopulerArama" src="https://user-images.githubusercontent.com/36036370/202980252-8cb89244-05b6-4b81-b4c1-fb7195e01310.png">
+<br/>
+<br/>
+<img width="346" alt="alisverislogin" src="https://user-images.githubusercontent.com/36036370/202979201-d5229435-735d-4bb6-ad24-d01f8b433a2a.png">
+<br/>
+<br/>
+<img width="350" alt="mesajlogin" src="https://user-images.githubusercontent.com/36036370/202979221-ea4aa969-d196-4053-b2e9-cf8c972eba82.png">
+<br/>
+<br/>
+<img width="349" alt="ilanvermetest" src="https://user-images.githubusercontent.com/36036370/202979252-d7839dea-76ce-4141-9554-7ec8d70eaf6d.png">
+<br/>
+<br/>
+<img width="345" alt="aramatest" src="https://user-images.githubusercontent.com/36036370/202979262-d50dfd5b-635d-42fa-bdf6-7330002d3edb.png">
+<br/>
+<br/>
